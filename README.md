@@ -1,10 +1,5 @@
 ### Hi there 👋
 
- <img align="left" alt="React.js Icon" width="22px" src="" />
- 
- <i class="fab fa-react"></i>
-
-
 <!--
 **toreylittlefield/toreylittlefield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
