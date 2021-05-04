@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img alt="redux" src="https://github.com/toreylittlefield/toreylittlefield/blob/main/EA9B40692C91530-redux.png" />
+
 <!--
 **toreylittlefield/toreylittlefield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
