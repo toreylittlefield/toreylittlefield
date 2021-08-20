@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Contributions:
 ![Snake animation](https://github.com/ToreyLittlefield/ToreyLittlefield/blob/output/github-contribution-grid-snake.svg)
 
 <!--
