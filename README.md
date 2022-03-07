@@ -3,7 +3,7 @@
 Contributions:
 ![Snake animation](https://github.com/ToreyLittlefield/ToreyLittlefield/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://github-profile-counter.glitch.me/toreylittlefield" alt"counter" />
+![Page Count](https://github-profile-counter.glitch.me/toreylittlefield/count.svg)
 
 
 <!--
