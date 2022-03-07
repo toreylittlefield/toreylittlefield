@@ -3,7 +3,7 @@
 Contributions:
 ![Snake animation](https://github.com/ToreyLittlefield/ToreyLittlefield/blob/output/github-contribution-grid-snake.svg)
 
-![Counter](https://github-profile-counter.glitch.me/toreylittlefield)
+<img src='https://github-profile-counter.glitch.me/toreylittlefield' alt"counter" />
 <!--
 **toreylittlefield/toreylittlefield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
